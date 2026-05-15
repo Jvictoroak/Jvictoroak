@@ -21,7 +21,10 @@ Currently open to Full Stack Developer opportunities where I can contribute with
 ##
 
 <div> 
-  <a href="https://github.com/Jvictoroak" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joao-victor-saboya-ribeiro-de-carvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/joao-victor-saboya-ribeiro-de-carvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:joaovictor.crvl@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://github.com/Jvictoroak" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
